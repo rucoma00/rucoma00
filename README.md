@@ -3,7 +3,7 @@
 
 **`Electronic Engineering Graduate`**
 
-I am a highly motivated and enthusiastic Electronic Engineer with a passion for programming microcontrollers, building projects from scratch and constantly learning new things. I have a solid understanding of electronics principles and embedded systems design. I am always eager to take on new challenges and find creative solutions to complex problems. Whether I am working on a challenging project or exploring new technologies, I am constantly pushing myself to grow and improve as an engineer. You can find out more about me in my [LinkedIn](https://www.linkedin.com/in/ruben-concejo/).
+I am a highly motivated and enthusiastic Electronic Engineering Graduate with a passion for programming microcontrollers, building projects from scratch and constantly learning new things. I have a solid understanding of electronics principles and embedded systems design. I am always eager to take on new challenges and find creative solutions to complex problems. Whether I am working on a challenging project or exploring new technologies, I am constantly pushing myself to grow and improve as an engineer. You can find out more about me in my [LinkedIn](https://www.linkedin.com/in/ruben-concejo/).
 
 ---
 ### 🛠️ Languages and tools
