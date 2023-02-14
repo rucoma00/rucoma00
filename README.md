@@ -26,6 +26,9 @@ I am a highly motivated and enthusiastic Electronic Engineering Graduate with a 
 
 #
 
+### 👨‍💻 Projects 
+- [RFM95 LoRa Shield for Arduino projects](https://github.com/MedialabU/LoRa-RFM95-Documentacion)
+- [Node-RED for Arduino Weather Station](https://github.com/MedialabU/NodeRed-Docu)
 <details>
     <summary><h3>🚀 Rubén's Journey </h3></summary>
         I finished my studies in Electronic Engineering in late 2022. During that time, I tried to make the most out of every course, which helped me discover  my passion about prototyping and designing new devices capable of solving engineering problems. I also challenged myself by taking part in many university entrepeneur programs and contests archieving great succes in some of them. I try to stay constantly learning new skills and espanding my knowledge in all the different engineering disciplines.
