@@ -27,8 +27,15 @@ I am a highly motivated and enthusiastic Electronic Engineering Graduate with a 
 #
 
 ### 👨‍💻 Projects 
+- [Energy Meter (End-of-Studies Project Part 1)](https://github.com/rucoma00/EnergyMeter)
+- [Energy Meter Wifi Module for Comunications (End-of-Studies Project Part 2)](https://github.com/rucoma00/EnergyMeter_WiFi_Com)
+- [Discrete Control Loops Simulator (C++)](https://github.com/rucoma00/Discr_Loops_Simulator)
 - [RFM95 LoRa Shield for Arduino projects](https://github.com/MedialabU/LoRa-RFM95-Documentacion)
 - [Node-RED for Arduino Weather Station](https://github.com/MedialabU/NodeRed-Docu)
+- [PIC16F877A Digital Chronometer with 7-segment displays (Assembly)](https://github.com/rucoma00/temps_sevenseg)
+- [PIC16F877A I/O control with timers (Assembly)](https://github.com/rucoma00/temps_inouts)
+
+
 <details>
     <summary><h3>🚀 Rubén's Journey </h3></summary>
         I started my professional career working for a robotics start-up which provided me with a lot of useful experience in the field of R+D. However, I decided to make a big change in my life and joined a multinational company to expand and explore my passion for coding. I finished my studies in Electronic Engineering in late 2022. During that time, I tried to make the most out of every course, which helped me discover  my passion about prototyping and designing new devices capable of solving engineering problems. I also challenged myself by taking part in many university entrepeneur programs and contests archieving great succes in some of them. I try to stay constantly learning new skills and espanding my knowledge in all the different engineering disciplines.
