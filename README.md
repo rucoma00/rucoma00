@@ -1,9 +1,9 @@
 
 # ⛷ Rubén Concejo Martínez
 
-**`Electronic Engineering Graduate`**
+**`Electronic Engineer`**
 
-I am a highly motivated and enthusiastic Electronic Engineering Graduate with a passion for programming microcontrollers, building projects from scratch and constantly learning new things. I am currently working as a C++ developer for Air Traffic Management systems. I have a solid understanding of electronics principles and embedded systems design. I am always eager to take on new challenges and find creative solutions to complex problems. Whether I am working on a challenging project or exploring new technologies, I am constantly pushing myself to grow and improve as an engineer. You can find out more about me in my [LinkedIn](https://www.linkedin.com/in/ruben-concejo/).
+I am a highly motivated and enthusiastic Electronic Engineering Graduate with a passion for programming microcontrollers, building projects from scratch and constantly learning new things. I am currently working as an Electronic Engineer. I have a solid understanding of electronics principles and embedded systems design. I am always eager to take on new challenges and find creative solutions to complex problems. Whether I am working on a challenging project or exploring new technologies, I am constantly pushing myself to grow and improve as an engineer. You can find out more about me in my [LinkedIn](https://www.linkedin.com/in/ruben-concejo/).
 
 ---
 ### 🛠️ Languages and tools
@@ -38,7 +38,8 @@ I am a highly motivated and enthusiastic Electronic Engineering Graduate with a 
 
 <details>
     <summary><h3>🚀 Rubén's Journey </h3></summary>
-        I started my professional career working for a robotics start-up which provided me with a lot of useful experience in the field of R+D. However, I decided to make a big change in my life and joined a multinational company to expand and explore my passion for coding. I finished my studies in Electronic Engineering in late 2022. During that time, I tried to make the most out of every course, which helped me discover  my passion about prototyping and designing new devices capable of solving engineering problems. I also challenged myself by taking part in many university entrepeneur programs and contests archieving great succes in some of them. I try to stay constantly learning new skills and espanding my knowledge in all the different engineering disciplines.
+        I started my professional career working for a robotics start-up which provided me with a lot of useful experience in the field of R+D. However, I decided to make a big change in my life and joined a multinational company to expand and explore my passion for coding. After that, I took even a bigger step, moving away from home to develop myself in embedded SW and FW for the first time in a professional enviroment. 
+        I finished my studies in Electronic Engineering in late 2022. During that time, I tried to make the most out of every course, which helped me discover  my passion about prototyping and designing new devices capable of solving engineering problems. I also challenged myself by taking part in many university entrepeneur programs and contests archieving great success in some of them. I try to stay constantly learning new skills and espanding my knowledge in all the different engineering disciplines.
 
 
 <!--
