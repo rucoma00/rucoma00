@@ -19,13 +19,6 @@ I am a highly motivated and enthusiastic Electronic Engineering Graduate with a 
 
 <br/>
 
-#
-
-### 📊 Stats
-![rucoma00's GitHub stats](https://github-readme-stats.vercel.app/api?username=rucoma00&show_icons=true&theme=nightowl)
-
-#
-
 ### 👨‍💻 Projects 
 - [Energy Meter (End-of-Studies Project Part 1)](https://github.com/rucoma00/EnergyMeter)
 - [Energy Meter Wifi Module for Comunications (End-of-Studies Project Part 2)](https://github.com/rucoma00/EnergyMeter_WiFi_Com)
